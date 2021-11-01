@@ -1,5 +1,5 @@
 //change 5 to the total number of questions
-var total=5
+var total=10
 var question=new Array()
 for (i=1;i<=total+1;i++){
 temp="choice"+i+"=new Array()"
@@ -51,9 +51,43 @@ choice5[2]="Intentionally Copying Essays"
 choice5[3]="I Can't Explain"
 choice5[4]="Introduce Cite Explain/Expand"
 
+question[6]="Which of these readings is older than 1950?"
+choice5[1]="The Horned Toad"
+choice5[2]="The Diary of Anne Frank"
+choice5[3]="The Hate U Give"
+choice5[4]="The Last Unicorn"
+
+question[7]="Which of Dr. Martin Luther King Jr.'s works speaks about his stance on unjust laws?"
+choice5[1]="Our God is Marching On"
+choice5[2]="I Have a Dream"
+choice5[3]="Letter from Birmingham Jail"
+choice5[4]="Beyond Vietnam"
+
+question[8]="Which of these was written by an American author?"
+choice5[1]="War and Peace"
+choice5[2]="Lolita"
+choice5[3]="Wind in the Willows"
+choice5[4]="Walden"
+
+question[9]="The Last Unicorn is an example of which genre?"
+choice5[1]="Postmodern Fantasy"
+choice5[2]="Mythological Horror Pastiche"
+choice5[3]="Magical Realism"
+choice5[4]="Aestheticism"
+
+question[10]="Which of these authors is still alive today?"
+choice5[1]="Howard Phillips Lovecraft"
+choice5[2]="Ursula K. LeGuin"
+choice5[3]="Seanan McGuire"
+choice5[4]="Phillip K. Dick"
+
 solution[1]="c"
 solution[2]="d"
 solution[3]="d"
 solution[4]="a"
 solution[5]="d"
-
+solution[6]="b"
+solution[7]="c"
+solution[8]="d"
+solution[9]="a"
+solution[10]="c"
