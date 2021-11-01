@@ -16,6 +16,7 @@ compliments[3]="Right on."
 compliments[4]="Correct!"
 compliments[5]="Great Job!"
 compliments[6]="Good work!"
+compliments[6]="Your work is presented excellently! You bring honor to your family."
 
 
 /*Below lists the questions, its choices, and finally, the solution to each question. Folow the exact format below when editing the questions. You may have as many questions as needed. Check doc at http://javascriptkit.com/script/script2/comboquiz.htm for more info
